@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1047226311076",
+    "project_id": "fastfoodhoangyen",
+    "storage_bucket": "fastfoodhoangyen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047226311076:android:d64bb604c981e2c0aea131",
+        "android_client_info": {
+          "package_name": "com.example.foodapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDcbIDlojbnkB_RQ6gmu4tQNKjzUdZ8rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
